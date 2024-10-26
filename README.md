@@ -1,6 +1,6 @@
 # Hi, I'm Anirban Khara 👋
 
-I’m a **Full Stack Web Developer** who loves building **scalable applications** that work now—and later. Currently, I'm pursuing an MS in Computer Science at **The George Washington University**, where I’m learning all the tricks to make software do what it’s supposed to, without the drama. I’m skilled in **JavaScript, Python, and cloud tech** and enjoy creating straightforward solutions that don’t need a user manual the size of a dictionary.
+I’m a **Full Stack Web Developer** who loves building **scalable applications** that work now—and later. Currently, I'm pursuing an MS in Computer Science at **The George Washington University**, where I’m learning all the tricks to make software do what it’s supposed to. I’m skilled in **JavaScript, Python, and cloud tech** and enjoy creating straightforward solutions that don’t need a user manual the size of a dictionary.
 
 ---
 
