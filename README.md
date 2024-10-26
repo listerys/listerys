@@ -23,7 +23,7 @@ I'm a **Full Stack Web Developer** passionate about building **scalable, high-pe
 
 ## 📊 GitHub Stats
 
-![Anirban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anirbankhara&show_icons=true&theme=tokyonight)
+![Anirban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=listerys&show_icons=true&theme=tokyonight)
 
 ## 🧑‍💻 Top Languages Used
 
@@ -31,7 +31,7 @@ I'm a **Full Stack Web Developer** passionate about building **scalable, high-pe
 
 ## 📈 Contribution Graph
 
-![Anirban's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=anirbankhara&theme=github)
+![Anirban's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=listerys&theme=github)
 
 ---
 
