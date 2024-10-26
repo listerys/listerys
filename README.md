@@ -27,7 +27,7 @@ I'm a **Full Stack Web Developer** with a passion for building **scalable, high-
 
 ## 🧑‍💻 Top Languages Used
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anirbankhara&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=listerys&layout=compact)
 
 ---
 
