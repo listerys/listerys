@@ -25,9 +25,6 @@ I'm a **Full Stack Web Developer** passionate about building **scalable, high-pe
 
 ![Anirban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=listerys&show_icons=true&theme=tokyonight)
 
-## 🧑‍💻 Top Languages Used
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anirbankhara&layout=compact&theme=gruvbox)
 
 ## 📈 Contribution Graph
 
