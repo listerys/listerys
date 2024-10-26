@@ -23,7 +23,7 @@ I'm a **Full Stack Web Developer** with a passion for building **scalable, high-
 
 ## 📊 GitHub Stats
 
-![Anirban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anirbankhara&show_icons=true&theme=default)
+![Anirban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=listerys&show_icons=true&theme=default)
 
 ## 🧑‍💻 Top Languages Used
 
