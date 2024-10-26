@@ -42,7 +42,7 @@ Here’s what I use to get the job done:
 
   <img src="https://github-readme-stats.vercel.app/api?username=listerys&show_icons=true&theme=tokyonight" alt="Anirban's GitHub Stats" height="180px"/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=listerys&theme=github" alt="Anirban's Contribution Graph" height="180px" width="400px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=listerys&theme=github" alt="Anirban's Contribution Graph" height="180px" width="500px"/>
   
 </div>
 
