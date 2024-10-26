@@ -1,6 +1,6 @@
 # Hi, I'm Anirban Khara 👋
 
-I’m a **Full Stack Web Developer** who loves building **scalable applications** that work now—and later. Currently, I'm pursuing an MS in Computer Science at **The George Washington University**, where I’m learning all the tricks to make software do what it’s supposed to. I’m skilled in **JavaScript, Python, and cloud tech** and enjoy creating straightforward solutions that don’t need a user manual the size of a dictionary.
+I’m a **Full Stack Web Developer** who builds **scalable applications** that work now—and later. Currently, I'm pursuing an MS in Computer Science at **The George Washington University**, where I’m learning the skills to make software do what it’s supposed to, without the drama. I’m skilled in **JavaScript, Python, and cloud tech** and enjoy creating solutions that don’t need a user manual the size of a dictionary.
 
 ---
 
@@ -8,19 +8,19 @@ I’m a **Full Stack Web Developer** who loves building **scalable applications*
 
 - **The George Washington University, School of Engineering & Applied Science**  
   Master of Science in Computer Science (Expected May 2025)  
-  **GPA**: 3.97/4.00 (Apparently that’s good enough for a Dean’s Merit Scholarship)
+  **GPA**: 3.97/4.00 (Dean’s Merit Scholarship Award 🎉)
 
 - **Kalinga Institute of Industrial Technology, Bhubaneswar, India**  
   Bachelor of Technology in Computer Science and System Engineering (May 2022)  
-  **GPA**: 3.78/4.00 (Yes, that means I was in the top 1%—make of that what you will)
+  **GPA**: 3.78/4.00 (Top 1% in class 💪)
 
 ---
 
 ## 🔍 About Me
 
-- **Experience**: Spent time as a Trainee Software Engineer at HSBC Technology and did a stint as a Functional Consultant Intern at HighRadius.
-- **Goal**: Building solid, efficient applications without the fluff.
-- **Currently Learning**: More about making scalable architectures and improving workflows because, frankly, there’s always a more efficient way.
+- **Experience**: Trainee Software Engineer at HSBC Technology and Functional Consultant Intern at HighRadius.
+- **Goal**: Build solid, efficient applications without the fluff.
+- **Currently Learning**: Scalable architectures and improving workflows because, frankly, there’s always a more efficient way.
 
 ---
 
@@ -42,12 +42,15 @@ Here’s what I use to get the job done:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contributions
 
-![Anirban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=listerys&show_icons=true&theme=tokyonight)
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
+  <img src="https://github-readme-stats.vercel.app/api?username=anirbankhara&show_icons=true&theme=tokyonight" alt="Anirban's GitHub Stats" height="180px"/>
 
-![Anirban's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=listerys&theme=github)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anirbankhara&theme=github" alt="Anirban's Contribution Graph" height="180px"/>
+  
+</div>
 
 ---
 
