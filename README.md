@@ -1,6 +1,6 @@
 # Hi there, I'm Anirban Khara! 👋
 
-I'm a **Full Stack Web Developer** passionate about building **scalable, high-performance applications**. Currently pursuing my **MS in Computer Science at The George Washington University**, I love solving complex problems and creating impactful digital experiences that prioritize both functionality and reliability. With a strong foundation in **JavaScript, Python, and cloud technologies**, I’m dedicated to developing solutions that meet evolving user needs.
+I'm a **Full Stack Web Developer** with a passion for building **scalable, high-performance applications**. Currently pursuing my **MS in Computer Science at The George Washington University**, I thrive on solving complex problems and creating impactful digital experiences that prioritize both functionality and reliability. With a strong foundation in **JavaScript, Python, and cloud technologies**, I’m dedicated to developing solutions that meet evolving user needs.
 
 ---
 
@@ -21,11 +21,13 @@ I'm a **Full Stack Web Developer** passionate about building **scalable, high-pe
 
 ---
 
-## 📈 Current Learning Goals
+## 📊 GitHub Stats
 
-- Enhancing my knowledge in **scalable architecture** and **application optimization**.
-- Exploring **workflow automation** to streamline development.
-- Developing innovative SaaS-based solutions to meet dynamic business needs.
+![Anirban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anirbankhara&show_icons=true&theme=default)
+
+## 🧑‍💻 Top Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anirbankhara&layout=compact)
 
 ---
 
