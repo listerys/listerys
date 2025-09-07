@@ -93,13 +93,13 @@ On the research front, I worked under **Professor Timothy Wood** on LLM-powered 
 ## Research
 
 
-> **IEEE Publication 1**  
+> **Research Issues and Challenges in AI-Embedded 6G Network Architecture**  
 > 📄 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10863235) · 🔗 [IEEE Xplore](https://ieeexplore.ieee.org/document/10863235) · 📝 [BibTeX](CITATIONS/10863235.bib)
 
-> **IEEE Publication 2**  
+> **Achieving Sustainable Development Goals (SDGs) by Leveraging 6G Services**  
 > 📄 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10863814) · 🔗 [IEEE Xplore](https://ieeexplore.ieee.org/document/10863814) · 📝 [BibTeX](CITATIONS/10863814.bib)
 
-> **IEEE Publication 3**  
+> **Advanced Heart Attack Risk Prediction Using Stacked Hybrid Machine Learning**  
 > 📄 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11129235) · 🔗 [IEEE Xplore](https://ieeexplore.ieee.org/document/11129235) · 📝 [BibTeX](CITATIONS/11129235.bib)
 ---
 
