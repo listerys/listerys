@@ -50,14 +50,6 @@ On the research front, I worked under **Professor Timothy Wood** on LLM-powered 
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=listerys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-
----
-
 ## Education
 
 **The George Washington University** | *MS Computer Science*  
