@@ -56,45 +56,6 @@ const anirban = {
 
 ---
 
-## 💼 Professional Experience
-
-### **Frontend Engineer Intern** @ Nextqore Technologies
-*Feb 2025 - Jun 2025 | McLean, VA*
-- Engineered **hyper-scale React dashboard** boosting UI consistency **40%** for 10k+ daily users
-- Architected **real-time distributed system** using WebSockets for 5k+ concurrent users
-- Optimized MongoDB collections with compound indexes, reducing API response time by **60%**
-
-### **Software Engineer** @ HSBC India
-*May 2022 - Jun 2023 | Hyderabad, India*
-- Delivered **REST APIs in Java** handling **50k+ daily transactions** for high-throughput financial systems
-- Achieved **85% code coverage** through comprehensive JUnit and Mockito testing
-- Implemented **ETL workflows** integrating structured data into Power BI dashboards
-- Optimized SQL queries resulting in **30% improvement** in data retrieval speeds
-
----
-
-## 🚀 Featured Projects
-
-### **Map-based Job Listing RAG System**
-*Technologies: Python, LLaMA 3.3, FAISS, PyQt6, WebSockets*
-- Optimized LLaMA 3.3 deployment using **4-bit quantization**, improving inference speed by **30%**
-- Implemented **RAG system** combining FAISS IndexIVFPQ vector search with keyword-based retrieval
-- Built fault-tolerant distributed scraping system processing **100+ daily job postings**
-
-### **Student Assist LLM Chatbot**
-*Technologies: React, GPT-4, Whisper API, Azure, FAISS*
-- Built React chatbot interface enabling interaction with audio/video files across **50+ sessions**
-- Integrated GPT-4 and Whisper APIs into distributed microservices on Azure
-- Enhanced material retrieval precision to **85%** using FAISS vector search
-
-### **Sign Language Assistant**
-*Technologies: React, Python, OpenCV, TensorFlow, Google Assistant SDK*
-- Developed responsive React UI with real-time camera integration for gesture capture
-- Led Python backend development using OpenCV and TensorFlow for custom sign-to-keyword mapping
-- Integrated gesture recognition with Google Assistant SDK for instant voice translation
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
