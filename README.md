@@ -3,14 +3,12 @@
 **Software Engineer** passionate about building **scalable, high-performance applications**. I recently graduated with my MS in Computer Science from George Washington University, bringing hands-on experience in both frontend and backend development across startups and global enterprises. I specialize in building user-centric applications, with work spanning responsive dashboard revamps, secure authentication systems, database optimization, and automated data processing.
 
 ```javascript
-          _______  _        _______  _______  _______  _______ 
-|\     /|(  ____ \( \      (  ____ \(  ___  )(       )(  ____ \
-| )   ( || (    \/| (      | (    \/| (   ) || () () || (    \/
-| | _ | || (__    | |      | |      | |   | || || || || (__    
-| |( )| ||  __)   | |      | |      | |   | || |(_)| ||  __)   
-| || || || (      | |      | |      | |   | || |   | || (      
-| () () || (____/\| (____/\| (____/\| (___) || )   ( || (____/\
-(_______)(_______/(_______/(_______/(_______)|/     \|(_______/
+ __    __     _                          
+/ / /\ \ \___| | ___ ___  _ __ ___   ___ 
+\ \/  \/ / _ \ |/ __/ _ \| '_ ` _ \ / _ \
+ \  /\  /  __/ | (_| (_) | | | | | |  __/
+  \/  \/ \___|_|\___\___/|_| |_| |_|\___|
+                                         
                                                                
 const anirban = {
     location: "Washington, DC",
