@@ -80,16 +80,9 @@ On the research front, I worked under **Professor Timothy Wood** on LLM-powered 
 
 ---
 
-## Research & Projects
+## Research
 
-**LLM-Powered Indoor Navigation** | *Research under Professor Timothy Wood*  
-Advanced navigation system leveraging large language models for intelligent indoor wayfinding
-
-**LLM Chatbot for Audio/Video Transcripts**  
-End-to-end application enabling natural language interaction with multimedia content through transcript analysis
-
-**Sign Language Assistant**  
-AI-powered system integrating computer vision with Google Assistant for real-time sign language translation
+[IEEE Publication 1](https://ieeexplore.ieee.org/document/10863235) | [IEEE Publication 2](https://ieeexplore.ieee.org/document/10863814) | [IEEE Publication 3](https://ieeexplore.ieee.org/document/11129235)
 
 ---
 
