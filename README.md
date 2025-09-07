@@ -92,7 +92,14 @@ On the research front, I worked under **Professor Timothy Wood** on LLM-powered 
 
 ## Research
 
-[IEEE Publication 1](https://ieeexplore.ieee.org/document/10863235) | [IEEE Publication 2](https://ieeexplore.ieee.org/document/10863814) | [IEEE Publication 3](https://ieeexplore.ieee.org/document/11129235)
+**IEEE Publication 1**  
+[![IEEE Xplore][ieee-10863235-shield]][xplore-10863235] [![PDF][pdf-10863235-shield]][pdf-10863235] [![Cite (BibTeX)][bib-10863235-shield]](CITATIONS/10863235.bib)
+
+**IEEE Publication 2**  
+[![IEEE Xplore][ieee-10863814-shield]][xplore-10863814] [![PDF][pdf-10863814-shield]][pdf-10863814] [![Cite (BibTeX)][bib-10863814-shield]](CITATIONS/10863814.bib)
+
+**IEEE Publication 3**  
+[![IEEE Xplore][ieee-11129235-shield]][xplore-11129235] [![PDF][pdf-11129235-shield]][pdf-11129235] [![Cite (BibTeX)][bib-11129235-shield]](CITATIONS/11129235.bib)
 
 ---
 
