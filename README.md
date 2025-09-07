@@ -92,17 +92,15 @@ On the research front, I worked under **Professor Timothy Wood** on LLM-powered 
 
 ## Research
 
-<p align="center">
-  <a href="https://ieeexplore.ieee.org/document/10863235">
-    <img src="assets/p1.png" alt="IEEE Publication 1" width="280">
-  </a>
-  <a href="https://ieeexplore.ieee.org/document/10863814">
-    <img src="assets/p2.png" alt="IEEE Publication 2" width="280">
-  </a>
-  <a href="https://ieeexplore.ieee.org/document/11129235">
-    <img src="assets/p3.png" alt="IEEE Publication 3" width="280">
-  </a>
-</p>
+
+> **IEEE Publication 1**  
+> 📄 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10863235) · 🔗 [IEEE Xplore](https://ieeexplore.ieee.org/document/10863235) · 📝 [BibTeX](CITATIONS/10863235.bib)
+
+> **IEEE Publication 2**  
+> 📄 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10863814) · 🔗 [IEEE Xplore](https://ieeexplore.ieee.org/document/10863814) · 📝 [BibTeX](CITATIONS/10863814.bib)
+
+> **IEEE Publication 3**  
+> 📄 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11129235) · 🔗 [IEEE Xplore](https://ieeexplore.ieee.org/document/11129235) · 📝 [BibTeX](CITATIONS/11129235.bib)
 ---
 
 ## Let's Connect
