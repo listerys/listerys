@@ -1,6 +1,6 @@
 # Hi, I'm Anirban Khara
 
-**Software Engineer** passionate about building **scalable, high-performance applications**. Currently pursuing **MS in Computer Science** at **The George Washington University**, where I'm honing my skills in distributed systems, cloud computing, and modern software architecture.
+**Software Engineer** passionate about building **scalable, high-performance applications**. I recently graduated with my MS in Computer Science from George Washington University, bringing hands-on experience in both frontend and backend development across startups and global enterprises. I specialize in building user-centric applications, with work spanning responsive dashboard revamps, secure authentication systems, database optimization, and automated data processing.
 
 ```javascript
 const anirban = {
@@ -15,14 +15,15 @@ const anirban = {
 
 ## About Me
 
-• **3+ years** of hands-on experience developing production-ready applications at **HSBC** and **Nextqore Technologies**  
-• Specialized in **frontend engineering** and **cloud-native development**  
-• Built systems handling **50k+ daily transactions** and **5k+ concurrent users**  
-• Strong focus on **performance optimization** and **scalable architecture**  
+Through internships at **Nextqore Inc.** and **Cardinal Integrated Technologies**, I collaborated directly with designers and engineers to improve UI/UX consistency, reduce bugs, and streamline API integrations in React applications. My earlier role at **HSBC Technology** involved implementing automation tools and analytics dashboards that enhanced team efficiency and supported agile delivery.
 
-Currently working on: **Map-based Job Listing RAG** system with LLaMA 3.3 and FAISS vector search  
-Learning: Advanced distributed systems and microservices architecture  
-Ask me about: React optimization, AWS deployment strategies, or system design  
+On the research front, I worked under **Professor Timothy Wood** on LLM-powered indoor navigation and developed end-to-end projects including an LLM chatbot for audio/video transcripts and a sign language assistant integrating AI with Google Assistant.
+
+**Current Focus:**
+- Building scalable web applications with modern frameworks
+- Exploring AI/ML integration in practical applications  
+- Contributing to open-source projects
+- Learning advanced system design patterns
 
 ---
 
@@ -74,12 +75,16 @@ Ask me about: React optimization, AWS deployment strategies, or system design
 
 ---
 
-## What I'm Up To
+## Research & Projects
 
-- **Research**: Exploring advanced RAG systems and vector databases for enhanced information retrieval
-- **Building**: Scalable microservices architecture using Node.js and AWS
-- **Learning**: Advanced system design patterns and distributed computing
-- **Collaborating**: Open to contributing to interesting open-source projects
+**LLM-Powered Indoor Navigation** | *Research under Professor Timothy Wood*  
+Advanced navigation system leveraging large language models for intelligent indoor wayfinding
+
+**LLM Chatbot for Audio/Video Transcripts**  
+End-to-end application enabling natural language interaction with multimedia content through transcript analysis
+
+**Sign Language Assistant**  
+AI-powered system integrating computer vision with Google Assistant for real-time sign language translation
 
 ---
 
